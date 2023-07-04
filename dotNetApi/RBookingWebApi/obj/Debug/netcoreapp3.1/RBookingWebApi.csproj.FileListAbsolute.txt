@@ -1,0 +1,221 @@
+D:/Projects 2022/ResturentBookApp/RBookingWebApi/RBookingWebApi/bin/Debug/netcoreapp3.1/appsettings.Development.json
+D:/Projects 2022/ResturentBookApp/RBookingWebApi/RBookingWebApi/bin/Debug/netcoreapp3.1/appsettings.json
+D:/Projects 2022/ResturentBookApp/RBookingWebApi/RBookingWebApi/bin/Debug/netcoreapp3.1/libman.json
+D:/Projects 2022/ResturentBookApp/RBookingWebApi/RBookingWebApi/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+D:/Projects 2022/ResturentBookApp/RBookingWebApi/RBookingWebApi/bin/Debug/netcoreapp3.1/RBookingWebApi.exe
+D:/Projects 2022/ResturentBookApp/RBookingWebApi/RBookingWebApi/bin/Debug/netcoreapp3.1/RBookingWebApi.deps.json
+D:/Projects 2022/ResturentBookApp/RBookingWebApi/RBookingWebApi/bin/Debug/netcoreapp3.1/RBookingWebApi.runtimeconfig.json
+D:/Projects 2022/ResturentBookApp/RBookingWebApi/RBookingWebApi/bin/Debug/netcoreapp3.1/RBookingWebApi.runtimeconfig.dev.json
+D:/Projects 2022/ResturentBookApp/RBookingWebApi/RBookingWebApi/bin/Debug/netcoreapp3.1/RBookingWebApi.dll
+D:/Projects 2022/ResturentBookApp/RBookingWebApi/RBookingWebApi/bin/Debug/netcoreapp3.1/RBookingWebApi.pdb
+D:/Projects 2022/ResturentBookApp/RBookingWebApi/RBookingWebApi/bin/Debug/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+D:/Projects 2022/ResturentBookApp/RBookingWebApi/RBookingWebApi/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+D:/Projects 2022/ResturentBookApp/RBookingWebApi/RBookingWebApi/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+D:/Projects 2022/ResturentBookApp/RBookingWebApi/RBookingWebApi/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+D:/Projects 2022/ResturentBookApp/RBookingWebApi/RBookingWebApi/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.SqlServer.dll
+D:/Projects 2022/ResturentBookApp/RBookingWebApi/RBookingWebApi/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+D:/Projects 2022/ResturentBookApp/RBookingWebApi/RBookingWebApi/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+D:/Projects 2022/ResturentBookApp/RBookingWebApi/RBookingWebApi/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+D:/Projects 2022/ResturentBookApp/RBookingWebApi/RBookingWebApi/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+D:/Projects 2022/ResturentBookApp/RBookingWebApi/RBookingWebApi/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:/Projects 2022/ResturentBookApp/RBookingWebApi/RBookingWebApi/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+D:/Projects 2022/ResturentBookApp/RBookingWebApi/RBookingWebApi/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+D:/Projects 2022/ResturentBookApp/RBookingWebApi/RBookingWebApi/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+D:/Projects 2022/ResturentBookApp/RBookingWebApi/RBookingWebApi/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+D:/Projects 2022/ResturentBookApp/RBookingWebApi/RBookingWebApi/bin/Debug/netcoreapp3.1/Microsoft.Identity.Client.dll
+D:/Projects 2022/ResturentBookApp/RBookingWebApi/RBookingWebApi/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.JsonWebTokens.dll
+D:/Projects 2022/ResturentBookApp/RBookingWebApi/RBookingWebApi/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Logging.dll
+D:/Projects 2022/ResturentBookApp/RBookingWebApi/RBookingWebApi/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.dll
+D:/Projects 2022/ResturentBookApp/RBookingWebApi/RBookingWebApi/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:/Projects 2022/ResturentBookApp/RBookingWebApi/RBookingWebApi/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Tokens.dll
+D:/Projects 2022/ResturentBookApp/RBookingWebApi/RBookingWebApi/bin/Debug/netcoreapp3.1/Microsoft.OpenApi.dll
+D:/Projects 2022/ResturentBookApp/RBookingWebApi/RBookingWebApi/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+D:/Projects 2022/ResturentBookApp/RBookingWebApi/RBookingWebApi/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.Swagger.dll
+D:/Projects 2022/ResturentBookApp/RBookingWebApi/RBookingWebApi/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.SwaggerGen.dll
+D:/Projects 2022/ResturentBookApp/RBookingWebApi/RBookingWebApi/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.SwaggerUI.dll
+D:/Projects 2022/ResturentBookApp/RBookingWebApi/RBookingWebApi/bin/Debug/netcoreapp3.1/System.Collections.Immutable.dll
+D:/Projects 2022/ResturentBookApp/RBookingWebApi/RBookingWebApi/bin/Debug/netcoreapp3.1/System.ComponentModel.Annotations.dll
+D:/Projects 2022/ResturentBookApp/RBookingWebApi/RBookingWebApi/bin/Debug/netcoreapp3.1/System.Configuration.ConfigurationManager.dll
+D:/Projects 2022/ResturentBookApp/RBookingWebApi/RBookingWebApi/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+D:/Projects 2022/ResturentBookApp/RBookingWebApi/RBookingWebApi/bin/Debug/netcoreapp3.1/System.IdentityModel.Tokens.Jwt.dll
+D:/Projects 2022/ResturentBookApp/RBookingWebApi/RBookingWebApi/bin/Debug/netcoreapp3.1/System.Runtime.Caching.dll
+D:/Projects 2022/ResturentBookApp/RBookingWebApi/RBookingWebApi/bin/Debug/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll
+D:/Projects 2022/ResturentBookApp/RBookingWebApi/RBookingWebApi/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+D:/Projects 2022/ResturentBookApp/RBookingWebApi/RBookingWebApi/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+D:/Projects 2022/ResturentBookApp/RBookingWebApi/RBookingWebApi/bin/Debug/netcoreapp3.1/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+D:/Projects 2022/ResturentBookApp/RBookingWebApi/RBookingWebApi/bin/Debug/netcoreapp3.1/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.pdb
+D:/Projects 2022/ResturentBookApp/RBookingWebApi/RBookingWebApi/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+D:/Projects 2022/ResturentBookApp/RBookingWebApi/RBookingWebApi/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.pdb
+D:/Projects 2022/ResturentBookApp/RBookingWebApi/RBookingWebApi/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+D:/Projects 2022/ResturentBookApp/RBookingWebApi/RBookingWebApi/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.pdb
+D:/Projects 2022/ResturentBookApp/RBookingWebApi/RBookingWebApi/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+D:/Projects 2022/ResturentBookApp/RBookingWebApi/RBookingWebApi/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.pdb
+D:/Projects 2022/ResturentBookApp/RBookingWebApi/RBookingWebApi/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+D:/Projects 2022/ResturentBookApp/RBookingWebApi/RBookingWebApi/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+D:/Projects 2022/ResturentBookApp/RBookingWebApi/RBookingWebApi/obj/Debug/netcoreapp3.1/RBookingWebApi.AssemblyInfoInputs.cache
+D:/Projects 2022/ResturentBookApp/RBookingWebApi/RBookingWebApi/obj/Debug/netcoreapp3.1/RBookingWebApi.AssemblyInfo.cs
+D:/Projects 2022/ResturentBookApp/RBookingWebApi/RBookingWebApi/obj/Debug/netcoreapp3.1/RBookingWebApi.csproj.CoreCompileInputs.cache
+D:/Projects 2022/ResturentBookApp/RBookingWebApi/RBookingWebApi/obj/Debug/netcoreapp3.1/RBookingWebApi.MvcApplicationPartsAssemblyInfo.cs
+D:/Projects 2022/ResturentBookApp/RBookingWebApi/RBookingWebApi/obj/Debug/netcoreapp3.1/RBookingWebApi.MvcApplicationPartsAssemblyInfo.cache
+D:/Projects 2022/ResturentBookApp/RBookingWebApi/RBookingWebApi/obj/Debug/netcoreapp3.1/RBookingWebApi.RazorTargetAssemblyInfo.cache
+D:/Projects 2022/ResturentBookApp/RBookingWebApi/RBookingWebApi/obj/Debug/netcoreapp3.1/RBookingWebApi.csproj.CopyComplete
+D:/Projects 2022/ResturentBookApp/RBookingWebApi/RBookingWebApi/obj/Debug/netcoreapp3.1/staticwebassets/RBookingWebApi.StaticWebAssets.Manifest.cache
+D:/Projects 2022/ResturentBookApp/RBookingWebApi/RBookingWebApi/obj/Debug/netcoreapp3.1/staticwebassets/RBookingWebApi.StaticWebAssets.xml
+D:/Projects 2022/ResturentBookApp/RBookingWebApi/RBookingWebApi/obj/Debug/netcoreapp3.1/RBookingWebApi.dll
+D:/Projects 2022/ResturentBookApp/RBookingWebApi/RBookingWebApi/obj/Debug/netcoreapp3.1/RBookingWebApi.pdb
+D:/Projects 2022/ResturentBookApp/RBookingWebApi/RBookingWebApi/obj/Debug/netcoreapp3.1/RBookingWebApi.genruntimeconfig.cache
+D:/Projects 2022/ResturentBookApp/RBookingWebApi/RBookingWebApi/obj/Debug/netcoreapp3.1/RBookingWebApi.csproj.AssemblyReference.cache
+/home/ubuntu/resturantbooking/dotNetApi/RBookingWebApi/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/home/ubuntu/resturantbooking/dotNetApi/RBookingWebApi/bin/Debug/netcoreapp3.1/appsettings.json
+/home/ubuntu/resturantbooking/dotNetApi/RBookingWebApi/bin/Debug/netcoreapp3.1/libman.json
+/home/ubuntu/resturantbooking/dotNetApi/RBookingWebApi/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+/home/ubuntu/resturantbooking/dotNetApi/RBookingWebApi/bin/Debug/netcoreapp3.1/RBookingWebApi
+/home/ubuntu/resturantbooking/dotNetApi/RBookingWebApi/bin/Debug/netcoreapp3.1/RBookingWebApi.deps.json
+/home/ubuntu/resturantbooking/dotNetApi/RBookingWebApi/bin/Debug/netcoreapp3.1/RBookingWebApi.runtimeconfig.json
+/home/ubuntu/resturantbooking/dotNetApi/RBookingWebApi/bin/Debug/netcoreapp3.1/RBookingWebApi.runtimeconfig.dev.json
+/home/ubuntu/resturantbooking/dotNetApi/RBookingWebApi/bin/Debug/netcoreapp3.1/RBookingWebApi.dll
+/home/ubuntu/resturantbooking/dotNetApi/RBookingWebApi/bin/Debug/netcoreapp3.1/RBookingWebApi.pdb
+/home/ubuntu/resturantbooking/dotNetApi/RBookingWebApi/bin/Debug/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/home/ubuntu/resturantbooking/dotNetApi/RBookingWebApi/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+/home/ubuntu/resturantbooking/dotNetApi/RBookingWebApi/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/ubuntu/resturantbooking/dotNetApi/RBookingWebApi/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+/home/ubuntu/resturantbooking/dotNetApi/RBookingWebApi/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.SqlServer.dll
+/home/ubuntu/resturantbooking/dotNetApi/RBookingWebApi/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+/home/ubuntu/resturantbooking/dotNetApi/RBookingWebApi/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+/home/ubuntu/resturantbooking/dotNetApi/RBookingWebApi/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+/home/ubuntu/resturantbooking/dotNetApi/RBookingWebApi/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+/home/ubuntu/resturantbooking/dotNetApi/RBookingWebApi/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/home/ubuntu/resturantbooking/dotNetApi/RBookingWebApi/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+/home/ubuntu/resturantbooking/dotNetApi/RBookingWebApi/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+/home/ubuntu/resturantbooking/dotNetApi/RBookingWebApi/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+/home/ubuntu/resturantbooking/dotNetApi/RBookingWebApi/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+/home/ubuntu/resturantbooking/dotNetApi/RBookingWebApi/bin/Debug/netcoreapp3.1/Microsoft.Identity.Client.dll
+/home/ubuntu/resturantbooking/dotNetApi/RBookingWebApi/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.JsonWebTokens.dll
+/home/ubuntu/resturantbooking/dotNetApi/RBookingWebApi/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Logging.dll
+/home/ubuntu/resturantbooking/dotNetApi/RBookingWebApi/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.dll
+/home/ubuntu/resturantbooking/dotNetApi/RBookingWebApi/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/home/ubuntu/resturantbooking/dotNetApi/RBookingWebApi/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Tokens.dll
+/home/ubuntu/resturantbooking/dotNetApi/RBookingWebApi/bin/Debug/netcoreapp3.1/Microsoft.OpenApi.dll
+/home/ubuntu/resturantbooking/dotNetApi/RBookingWebApi/bin/Debug/netcoreapp3.1/Microsoft.Win32.Registry.dll
+/home/ubuntu/resturantbooking/dotNetApi/RBookingWebApi/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/home/ubuntu/resturantbooking/dotNetApi/RBookingWebApi/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.Swagger.dll
+/home/ubuntu/resturantbooking/dotNetApi/RBookingWebApi/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/ubuntu/resturantbooking/dotNetApi/RBookingWebApi/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/ubuntu/resturantbooking/dotNetApi/RBookingWebApi/bin/Debug/netcoreapp3.1/System.Collections.Immutable.dll
+/home/ubuntu/resturantbooking/dotNetApi/RBookingWebApi/bin/Debug/netcoreapp3.1/System.ComponentModel.Annotations.dll
+/home/ubuntu/resturantbooking/dotNetApi/RBookingWebApi/bin/Debug/netcoreapp3.1/System.Configuration.ConfigurationManager.dll
+/home/ubuntu/resturantbooking/dotNetApi/RBookingWebApi/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+/home/ubuntu/resturantbooking/dotNetApi/RBookingWebApi/bin/Debug/netcoreapp3.1/System.IdentityModel.Tokens.Jwt.dll
+/home/ubuntu/resturantbooking/dotNetApi/RBookingWebApi/bin/Debug/netcoreapp3.1/System.Runtime.Caching.dll
+/home/ubuntu/resturantbooking/dotNetApi/RBookingWebApi/bin/Debug/netcoreapp3.1/System.Security.AccessControl.dll
+/home/ubuntu/resturantbooking/dotNetApi/RBookingWebApi/bin/Debug/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll
+/home/ubuntu/resturantbooking/dotNetApi/RBookingWebApi/bin/Debug/netcoreapp3.1/System.Security.Principal.Windows.dll
+/home/ubuntu/resturantbooking/dotNetApi/RBookingWebApi/bin/Debug/netcoreapp3.1/System.Text.Encoding.CodePages.dll
+/home/ubuntu/resturantbooking/dotNetApi/RBookingWebApi/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/home/ubuntu/resturantbooking/dotNetApi/RBookingWebApi/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/home/ubuntu/resturantbooking/dotNetApi/RBookingWebApi/bin/Debug/netcoreapp3.1/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/home/ubuntu/resturantbooking/dotNetApi/RBookingWebApi/bin/Debug/netcoreapp3.1/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.pdb
+/home/ubuntu/resturantbooking/dotNetApi/RBookingWebApi/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/home/ubuntu/resturantbooking/dotNetApi/RBookingWebApi/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.pdb
+/home/ubuntu/resturantbooking/dotNetApi/RBookingWebApi/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/home/ubuntu/resturantbooking/dotNetApi/RBookingWebApi/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.pdb
+/home/ubuntu/resturantbooking/dotNetApi/RBookingWebApi/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/home/ubuntu/resturantbooking/dotNetApi/RBookingWebApi/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.pdb
+/home/ubuntu/resturantbooking/dotNetApi/RBookingWebApi/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netstandard2.0/Microsoft.Win32.Registry.dll
+/home/ubuntu/resturantbooking/dotNetApi/RBookingWebApi/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/Microsoft.Win32.Registry.dll
+/home/ubuntu/resturantbooking/dotNetApi/RBookingWebApi/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/home/ubuntu/resturantbooking/dotNetApi/RBookingWebApi/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.Security.AccessControl.dll
+/home/ubuntu/resturantbooking/dotNetApi/RBookingWebApi/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/home/ubuntu/resturantbooking/dotNetApi/RBookingWebApi/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.1/System.Security.Principal.Windows.dll
+/home/ubuntu/resturantbooking/dotNetApi/RBookingWebApi/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.1/System.Security.Principal.Windows.dll
+/home/ubuntu/resturantbooking/dotNetApi/RBookingWebApi/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.Text.Encoding.CodePages.dll
+/home/ubuntu/resturantbooking/dotNetApi/RBookingWebApi/obj/Debug/netcoreapp3.1/RBookingWebApi.csprojAssemblyReference.cache
+/home/ubuntu/resturantbooking/dotNetApi/RBookingWebApi/obj/Debug/netcoreapp3.1/RBookingWebApi.AssemblyInfoInputs.cache
+/home/ubuntu/resturantbooking/dotNetApi/RBookingWebApi/obj/Debug/netcoreapp3.1/RBookingWebApi.AssemblyInfo.cs
+/home/ubuntu/resturantbooking/dotNetApi/RBookingWebApi/obj/Debug/netcoreapp3.1/RBookingWebApi.csproj.CoreCompileInputs.cache
+/home/ubuntu/resturantbooking/dotNetApi/RBookingWebApi/obj/Debug/netcoreapp3.1/RBookingWebApi.MvcApplicationPartsAssemblyInfo.cs
+/home/ubuntu/resturantbooking/dotNetApi/RBookingWebApi/obj/Debug/netcoreapp3.1/RBookingWebApi.MvcApplicationPartsAssemblyInfo.cache
+/home/ubuntu/resturantbooking/dotNetApi/RBookingWebApi/obj/Debug/netcoreapp3.1/RBookingWebApi.RazorTargetAssemblyInfo.cache
+/home/ubuntu/resturantbooking/dotNetApi/RBookingWebApi/obj/Debug/netcoreapp3.1/RBookingWebApi.csproj.CopyComplete
+/home/ubuntu/resturantbooking/dotNetApi/RBookingWebApi/obj/Debug/netcoreapp3.1/staticwebassets/RBookingWebApi.StaticWebAssets.Manifest.cache
+/home/ubuntu/resturantbooking/dotNetApi/RBookingWebApi/obj/Debug/netcoreapp3.1/staticwebassets/RBookingWebApi.StaticWebAssets.xml
+/home/ubuntu/resturantbooking/dotNetApi/RBookingWebApi/obj/Debug/netcoreapp3.1/RBookingWebApi.dll
+/home/ubuntu/resturantbooking/dotNetApi/RBookingWebApi/obj/Debug/netcoreapp3.1/RBookingWebApi.pdb
+/home/ubuntu/resturantbooking/dotNetApi/RBookingWebApi/obj/Debug/netcoreapp3.1/RBookingWebApi.genruntimeconfig.cache
+/home/ubuntu/resturantbooking-github1/dotNetApi/RBookingWebApi/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/home/ubuntu/resturantbooking-github1/dotNetApi/RBookingWebApi/bin/Debug/netcoreapp3.1/appsettings.json
+/home/ubuntu/resturantbooking-github1/dotNetApi/RBookingWebApi/bin/Debug/netcoreapp3.1/libman.json
+/home/ubuntu/resturantbooking-github1/dotNetApi/RBookingWebApi/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+/home/ubuntu/resturantbooking-github1/dotNetApi/RBookingWebApi/bin/Debug/netcoreapp3.1/RBookingWebApi
+/home/ubuntu/resturantbooking-github1/dotNetApi/RBookingWebApi/bin/Debug/netcoreapp3.1/RBookingWebApi.deps.json
+/home/ubuntu/resturantbooking-github1/dotNetApi/RBookingWebApi/bin/Debug/netcoreapp3.1/RBookingWebApi.runtimeconfig.json
+/home/ubuntu/resturantbooking-github1/dotNetApi/RBookingWebApi/bin/Debug/netcoreapp3.1/RBookingWebApi.runtimeconfig.dev.json
+/home/ubuntu/resturantbooking-github1/dotNetApi/RBookingWebApi/bin/Debug/netcoreapp3.1/RBookingWebApi.dll
+/home/ubuntu/resturantbooking-github1/dotNetApi/RBookingWebApi/bin/Debug/netcoreapp3.1/RBookingWebApi.pdb
+/home/ubuntu/resturantbooking-github1/dotNetApi/RBookingWebApi/bin/Debug/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/home/ubuntu/resturantbooking-github1/dotNetApi/RBookingWebApi/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+/home/ubuntu/resturantbooking-github1/dotNetApi/RBookingWebApi/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/ubuntu/resturantbooking-github1/dotNetApi/RBookingWebApi/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+/home/ubuntu/resturantbooking-github1/dotNetApi/RBookingWebApi/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.SqlServer.dll
+/home/ubuntu/resturantbooking-github1/dotNetApi/RBookingWebApi/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+/home/ubuntu/resturantbooking-github1/dotNetApi/RBookingWebApi/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+/home/ubuntu/resturantbooking-github1/dotNetApi/RBookingWebApi/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+/home/ubuntu/resturantbooking-github1/dotNetApi/RBookingWebApi/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+/home/ubuntu/resturantbooking-github1/dotNetApi/RBookingWebApi/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/home/ubuntu/resturantbooking-github1/dotNetApi/RBookingWebApi/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+/home/ubuntu/resturantbooking-github1/dotNetApi/RBookingWebApi/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+/home/ubuntu/resturantbooking-github1/dotNetApi/RBookingWebApi/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+/home/ubuntu/resturantbooking-github1/dotNetApi/RBookingWebApi/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+/home/ubuntu/resturantbooking-github1/dotNetApi/RBookingWebApi/bin/Debug/netcoreapp3.1/Microsoft.Identity.Client.dll
+/home/ubuntu/resturantbooking-github1/dotNetApi/RBookingWebApi/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.JsonWebTokens.dll
+/home/ubuntu/resturantbooking-github1/dotNetApi/RBookingWebApi/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Logging.dll
+/home/ubuntu/resturantbooking-github1/dotNetApi/RBookingWebApi/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.dll
+/home/ubuntu/resturantbooking-github1/dotNetApi/RBookingWebApi/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/home/ubuntu/resturantbooking-github1/dotNetApi/RBookingWebApi/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Tokens.dll
+/home/ubuntu/resturantbooking-github1/dotNetApi/RBookingWebApi/bin/Debug/netcoreapp3.1/Microsoft.OpenApi.dll
+/home/ubuntu/resturantbooking-github1/dotNetApi/RBookingWebApi/bin/Debug/netcoreapp3.1/Microsoft.Win32.Registry.dll
+/home/ubuntu/resturantbooking-github1/dotNetApi/RBookingWebApi/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/home/ubuntu/resturantbooking-github1/dotNetApi/RBookingWebApi/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.Swagger.dll
+/home/ubuntu/resturantbooking-github1/dotNetApi/RBookingWebApi/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/ubuntu/resturantbooking-github1/dotNetApi/RBookingWebApi/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/ubuntu/resturantbooking-github1/dotNetApi/RBookingWebApi/bin/Debug/netcoreapp3.1/System.Collections.Immutable.dll
+/home/ubuntu/resturantbooking-github1/dotNetApi/RBookingWebApi/bin/Debug/netcoreapp3.1/System.ComponentModel.Annotations.dll
+/home/ubuntu/resturantbooking-github1/dotNetApi/RBookingWebApi/bin/Debug/netcoreapp3.1/System.Configuration.ConfigurationManager.dll
+/home/ubuntu/resturantbooking-github1/dotNetApi/RBookingWebApi/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+/home/ubuntu/resturantbooking-github1/dotNetApi/RBookingWebApi/bin/Debug/netcoreapp3.1/System.IdentityModel.Tokens.Jwt.dll
+/home/ubuntu/resturantbooking-github1/dotNetApi/RBookingWebApi/bin/Debug/netcoreapp3.1/System.Runtime.Caching.dll
+/home/ubuntu/resturantbooking-github1/dotNetApi/RBookingWebApi/bin/Debug/netcoreapp3.1/System.Security.AccessControl.dll
+/home/ubuntu/resturantbooking-github1/dotNetApi/RBookingWebApi/bin/Debug/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll
+/home/ubuntu/resturantbooking-github1/dotNetApi/RBookingWebApi/bin/Debug/netcoreapp3.1/System.Security.Principal.Windows.dll
+/home/ubuntu/resturantbooking-github1/dotNetApi/RBookingWebApi/bin/Debug/netcoreapp3.1/System.Text.Encoding.CodePages.dll
+/home/ubuntu/resturantbooking-github1/dotNetApi/RBookingWebApi/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/home/ubuntu/resturantbooking-github1/dotNetApi/RBookingWebApi/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/home/ubuntu/resturantbooking-github1/dotNetApi/RBookingWebApi/bin/Debug/netcoreapp3.1/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/home/ubuntu/resturantbooking-github1/dotNetApi/RBookingWebApi/bin/Debug/netcoreapp3.1/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.pdb
+/home/ubuntu/resturantbooking-github1/dotNetApi/RBookingWebApi/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/home/ubuntu/resturantbooking-github1/dotNetApi/RBookingWebApi/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.pdb
+/home/ubuntu/resturantbooking-github1/dotNetApi/RBookingWebApi/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/home/ubuntu/resturantbooking-github1/dotNetApi/RBookingWebApi/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.pdb
+/home/ubuntu/resturantbooking-github1/dotNetApi/RBookingWebApi/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/home/ubuntu/resturantbooking-github1/dotNetApi/RBookingWebApi/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.pdb
+/home/ubuntu/resturantbooking-github1/dotNetApi/RBookingWebApi/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netstandard2.0/Microsoft.Win32.Registry.dll
+/home/ubuntu/resturantbooking-github1/dotNetApi/RBookingWebApi/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/Microsoft.Win32.Registry.dll
+/home/ubuntu/resturantbooking-github1/dotNetApi/RBookingWebApi/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/home/ubuntu/resturantbooking-github1/dotNetApi/RBookingWebApi/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.Security.AccessControl.dll
+/home/ubuntu/resturantbooking-github1/dotNetApi/RBookingWebApi/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/home/ubuntu/resturantbooking-github1/dotNetApi/RBookingWebApi/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.1/System.Security.Principal.Windows.dll
+/home/ubuntu/resturantbooking-github1/dotNetApi/RBookingWebApi/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.1/System.Security.Principal.Windows.dll
+/home/ubuntu/resturantbooking-github1/dotNetApi/RBookingWebApi/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.Text.Encoding.CodePages.dll
+/home/ubuntu/resturantbooking-github1/dotNetApi/RBookingWebApi/obj/Debug/netcoreapp3.1/RBookingWebApi.csprojAssemblyReference.cache
+/home/ubuntu/resturantbooking-github1/dotNetApi/RBookingWebApi/obj/Debug/netcoreapp3.1/RBookingWebApi.AssemblyInfoInputs.cache
+/home/ubuntu/resturantbooking-github1/dotNetApi/RBookingWebApi/obj/Debug/netcoreapp3.1/RBookingWebApi.AssemblyInfo.cs
+/home/ubuntu/resturantbooking-github1/dotNetApi/RBookingWebApi/obj/Debug/netcoreapp3.1/RBookingWebApi.csproj.CoreCompileInputs.cache
+/home/ubuntu/resturantbooking-github1/dotNetApi/RBookingWebApi/obj/Debug/netcoreapp3.1/RBookingWebApi.MvcApplicationPartsAssemblyInfo.cs
+/home/ubuntu/resturantbooking-github1/dotNetApi/RBookingWebApi/obj/Debug/netcoreapp3.1/RBookingWebApi.MvcApplicationPartsAssemblyInfo.cache
+/home/ubuntu/resturantbooking-github1/dotNetApi/RBookingWebApi/obj/Debug/netcoreapp3.1/RBookingWebApi.RazorTargetAssemblyInfo.cache
+/home/ubuntu/resturantbooking-github1/dotNetApi/RBookingWebApi/obj/Debug/netcoreapp3.1/RBookingWebApi.csproj.CopyComplete
+/home/ubuntu/resturantbooking-github1/dotNetApi/RBookingWebApi/obj/Debug/netcoreapp3.1/staticwebassets/RBookingWebApi.StaticWebAssets.Manifest.cache
+/home/ubuntu/resturantbooking-github1/dotNetApi/RBookingWebApi/obj/Debug/netcoreapp3.1/staticwebassets/RBookingWebApi.StaticWebAssets.xml
+/home/ubuntu/resturantbooking-github1/dotNetApi/RBookingWebApi/obj/Debug/netcoreapp3.1/RBookingWebApi.dll
+/home/ubuntu/resturantbooking-github1/dotNetApi/RBookingWebApi/obj/Debug/netcoreapp3.1/RBookingWebApi.pdb
+/home/ubuntu/resturantbooking-github1/dotNetApi/RBookingWebApi/obj/Debug/netcoreapp3.1/RBookingWebApi.genruntimeconfig.cache
